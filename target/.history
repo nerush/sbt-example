@@ -1,0 +1,10 @@
+compile
+run
+exit
+test
+test-only RangeBenchmark
+reload
+test
+console
+test
+exit
